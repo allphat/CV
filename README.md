@@ -4,11 +4,12 @@
 Yann Brigant
 
 4, cité de la Chapelle                
+75018 Paris                                                                                 
+France
 
-75018 Paris                                                                               ybrigant@gmail.com   
+ybrigant@gmail.com
 
-France                                                                                          +33683350737
-
++33683350737
 
 ---
 # DEVELOPPEUR WEB
