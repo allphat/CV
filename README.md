@@ -1,6 +1,6 @@
 
 
---------------------------   ---------------------------
+
 Yann Brigant
 
 4, cité de la Chapelle                
@@ -8,11 +8,14 @@ Yann Brigant
 75018 Paris                           ybrigant@gmail.com   
 
 France                                      +33683350737
---------------------------   ---------------------------
 
 
+ ---
+# DEVELOPPEUR WEB
+ ---
 
-#EXPERIENCES
+
+##EXPERIENCES
 
 
 * ####Depuis février 2015 : développeur web chez [Bourse Direct](https://www.boursedirect.fr/ "Cotations, actualités et analyses boursières")
@@ -60,14 +63,16 @@ France                                      +33683350737
     > Première expérience de développeur web ! Je trvaille en colloration avec l'éauipe flash pour l'échange de données des joueurs entre les applications flash et la base de données mysql.
     
     
- # FORMATIONS
+ ##FORMATIONS
  
 * ####Python For Everybody (avril 2016) [eCertificat](https://www.coursera.org/account/accomplishments/specialization/certificate/EQ63CUMV4YU9) 
-    
-* ####Certification Mysql Developer (Novembre 2012) [eCertificat]
-(https://drive.google.com/file/d/0B7vEdkyr68IxWUw2ZUhQLXp0WlE/view?usp=sharing)
+ 
+ 
+* ####Certification Mysql Developer (Novembre 2012) [eCertificat](https://drive.google.com/file/d/0B7vEdkyr68IxWUw2ZUhQLXp0WlE/view?usp=sharing)
+
 
 * ####Certification Php5 (Décembre 2009) [Ma page dans l'annuaire Zend](http://www.zend.com/en/yellow-pages/ZEND012321)
+
 
 * ####DUT Informatique à Nantes (2004)
 
