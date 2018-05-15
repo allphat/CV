@@ -43,7 +43,7 @@ ybrigant@gmail.com
 * #### février 2006 - octobre 2008 : Développeur web chez Pixmania(https://www.pixmania.fr/ "Vente en ligne")
     > Je rejoins l'équipe de gestion du backoffice puis je prends en charge l'application de veille concurrentielle (réalisation de crawlers, parsing de sites)
 
-* ####février 2005- janvier 2006 : Développeur web chez [Prizee](http://www.prizee.com/ "Jeux gratuits : jeu flash en ligne et encheres de produits Prizee !")
+* #### février 2005- janvier 2006 : Développeur web chez [Prizee](http://www.prizee.com/ "Jeux gratuits : jeu flash en ligne et encheres de produits Prizee !")
     > Première expérience de développeur web ! Je travaille en collaboration avec l'équipe flash pour l'échange de données des joueurs entre les applications flash et la base de données mysql.
 
 
