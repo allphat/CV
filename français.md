@@ -15,9 +15,14 @@ ybrigant@gmail.com
 
 
 ## EXPERIENCES ##
+* #### depuis juin 2018 : Développeur backend chez [soundcharts](https://soundcharts.com)
+    > Développement Symfony 3/4, GraphQL.
+
+* #### juillet 2017 - mai 2018 : Développeur chez [SoCloz](https://www.socloz.com)
+    > Intégration d'APIs tierces dans le système de flux de Socloz
 
 * #### depuis février 2015 : Développeur web chez [Bourse Direct](https://www.boursedirect.fr/ "Cotations, actualités et analyses boursières")
-    > Je travaille actuellement à la migration de l'ensemble des sites du groupe sous Symfony 2 (2.7 actuellement), bootstrap,sqlserver, création de components, bundles interfaces front et back. Le besoin d'une interface d'authentification unifiée m'a conduit au développement d'une api authentification en nodeJs avec ExpressJs (v4) et un stockage cassandra. Afin de faire évoluer le système de notifications, j'ai repris le système de notifications afin de le rendre plus flexible. L'équipe fonctionne en méthodlogie scrum avec réalisation de tests (unitaires & fonctionnels) et builds sur Jenkins.
+    > Migration de l'ensemble des sites du groupe sous Symfony 2 (2.7 actuellement), bootstrap,sqlserver, création de components, bundles interfaces front et back. Le besoin d'une interface d'authentification unifiée m'a conduit au développement d'une api authentification en nodeJs avec ExpressJs (v4) et un stockage cassandra. Afin de faire évoluer le système de notifications, j'ai repris le système de notifications afin de le rendre plus flexible. L'équipe fonctionne en méthodlogie scrum avec réalisation de tests (unitaires & fonctionnels) et builds sur Jenkins.
     
 * #### juillet 2013 à janvier 2015 : Développeur web chez [Qobuz](http://www.qobuz.com/ "Musique illimitée et Téléchargements Hi-Res 24-Bit")
     > J'ai rejoint l'équipe pour renforcer le pôle développement en vue de l'ouverture du site à l'international. Internationalisation du site sous symfony 1.4. Développement de la fonctionnalité de crédit d'achat. Upgrade du player js pour supporter le son au format Flac (utilisation de auroraJs)

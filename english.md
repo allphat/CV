@@ -15,9 +15,14 @@ ybrigant@gmail.com
 
 
 ## EXPERIENCES ##
+* #### depuis juin 2018 : Développeur backend chez [soundcharts](https://soundcharts.com)
+    > Symfony 3/4, GraphQL dévelopment
+
+* #### juillet 2017 - mai 2018 : Développeur chez [SoCloz](https://www.socloz.com)
+    > APIs integration in Socloz feed system 
 
 * #### since february 2015 : Web developer at [Bourse Direct](https://www.boursedirect.fr/ "Cotations, actualités et analyses boursières")
-    > I am currently working on a migration process from a legacy code base to symfony2 (2.7) applications with bootstrap, sqlserver, sf components and bundles, new front and back interfaces. I created an authentication api with nodeJs and ExpressJs (v4) and a cassandra server for storage. In order to improve the current notification system to our customers, I just finished devices notifications refactoring. The team works in an Agile environment (scrum) with tests (unit and functional) and builds on Jenkins.
+    > Migration process from a legacy code base to symfony2 (2.7) applications with bootstrap, sqlserver, sf components and bundles, new front and back interfaces. I created an authentication api with nodeJs and ExpressJs (v4) and a cassandra server for storage. In order to improve the current notification system to our customers, I just finished devices notifications refactoring. The team works in an Agile environment (scrum) with tests (unit and functional) and builds on Jenkins.
     
 * #### july 2013 to january 2015 : Web developer at [Qobuz](http://www.qobuz.com/gb-en/discover "Unlimited music and downloading in 24-Bit Hi-Res.")
     > I joined the team to help with international openings. A big project was to internationalize our 3 products (streaming, store and magazine). I added a purchase credit functionality to the store part. I also upgraded the js player to support flac format (use of auroraJs)
