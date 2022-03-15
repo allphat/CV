@@ -1,7 +1,7 @@
 Yann Brigant
 
-4, cité de la Chapelle                
-75018 Paris                                                                                 
+40, rue de Kerbervet                
+29100 Douarnenez                                                                                 
 France
 
 ybrigant@gmail.com
@@ -15,6 +15,10 @@ ybrigant@gmail.com
 
 
 ## EXPERIENCES ##
+* #### depuis juillet 2019: Développeur backend chez [Bilendi](https://www.bilendi.fr/)
+    > Développements Symfony 3/4/5, postgresql
+    > Création de bundles
+    > Refonte du système d'envoi de campagnes (emailings, sms, notifications)
 * #### depuis juin 2018 : Développeur backend chez [soundcharts](https://soundcharts.com)
     > Développement Symfony 3/4, GraphQL.
 
