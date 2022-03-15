@@ -1,7 +1,7 @@
 Yann Brigant
 
-4, cité de la Chapelle                
-75018 Paris                                                                                 
+40, rue de Kerbervet    
+29100 Douarnenez                                                                                 
 France
 
 ybrigant@gmail.com
@@ -15,10 +15,14 @@ ybrigant@gmail.com
 
 
 ## EXPERIENCES ##
-* #### depuis juin 2018 : Développeur backend chez [soundcharts](https://soundcharts.com)
-    > Symfony 3/4, GraphQL dévelopment
+* #### since july 2019: Backend developer at [Bilendi](https://www.bilendi.fr/)
+    > Symfony 3/4/5 developments, postgresql
+    > Bundles creation
+    > Refactoring of campaigns system (emailings, sms, notifications)
+* #### since june 2018 : Bakkend developer at [soundcharts](https://soundcharts.com)
+    > Symfony 3/4, GraphQL developments
 
-* #### juillet 2017 - mai 2018 : Développeur chez [SoCloz](https://www.socloz.com)
+* #### july 2017 - may 2018 : Developer at [SoCloz](https://www.socloz.com)
     > APIs integration in Socloz feed system 
 
 * #### since february 2015 : Web developer at [Bourse Direct](https://www.boursedirect.fr/ "Cotations, actualités et analyses boursières")
